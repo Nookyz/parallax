@@ -26,6 +26,11 @@ const GlobalStyle = createGlobalStyle`
   body {
     background: #ffeeee;
   }
+
+  .div1 {
+    height: 100vh;
+    background: #ffe4c4;
+  }
 `;
 
 const App: FC = () => {
